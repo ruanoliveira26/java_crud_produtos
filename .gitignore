@@ -1,0 +1,59 @@
+# Arquivos de compilação e saída
+bin/
+target/
+
+# Arquivos de configuração IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Arquivos de dependências gerados pelo Maven
+# Caso você use Gradle, ajuste esta seção de acordo
+/.classpath
+/.project
+/.settings/
+/.externalToolBuilders/
+/.metadata/
+.gradle/
+build/
+
+# Logs e arquivos temporários
+*.log
+*.log.*
+*.tmp
+*.swp
+
+# Arquivos de propriedades de sistema
+*.properties
+
+# Arquivos de configuração de log
+logback.xml
+log4j.properties
+
+# Cache e arquivos gerados
+target/
+.cache/
+*.class
+
+# Pacotes de distribuição
+*.jar
+*.war
+*.ear
+
+# Arquivos de dependências gerenciadas pelo Maven
+# Caso você use Gradle, ajuste esta seção de acordo
+/.m2/
+
+# Arquivos de projeto específicos do Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# Arquivos de projeto específicos do IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
